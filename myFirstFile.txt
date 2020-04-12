@@ -1,2 +1,1 @@
-in the testBranch 2
-Going to merge with Master Branch
+I clear the file
